@@ -1,5 +1,6 @@
-### Hi there 👋
-
+#H1 Hello my name is Etienne
+1.I am studying general engineering in **Lyon**
+2.I am currently learning **Web software development**
 <!--
 **EtienneVassallo-Huet/EtienneVassallo-Huet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
