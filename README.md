@@ -1,4 +1,5 @@
-#h1 Hello my name is Etienne<br/>
+#h1Hello my name is Etienne<br/>
+
 1.I am studying general engineering in **Lyon**<br/>
 2.I am currently learning **Web software development**
 3.My hobbies are sports espacially Rugby 🏈 and running 🏃 but also music🎷
